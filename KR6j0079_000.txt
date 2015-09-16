@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂瑜伽護摩儀軌
+#+DATE: 2015-08-30 20:25:34.356010
+#+PROPERTY: JUAN 0
